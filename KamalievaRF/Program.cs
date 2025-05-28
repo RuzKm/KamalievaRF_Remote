@@ -8,5 +8,10 @@
             //KamalievaRF Am-1-24
             //solve task2
         }
+        public static double Sqr(double X)
+        {
+            return X * X;
+        }
+
     }
 }
