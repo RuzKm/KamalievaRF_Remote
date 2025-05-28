@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace KamalievaRF
 {
-    internal class New_Class
-    {
-    }
+   
 }
