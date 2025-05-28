@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             //KamalievaRF Am-1-24
+            // lab1.1
+
         }
     }
 }
